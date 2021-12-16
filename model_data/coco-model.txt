@@ -1,2 +1,2 @@
 File model_data/mask_rcnn_coco.h5 is 245.63 MB; this exceeds GitHub's file size limit of 100.00 MB  
-you can download from 
+you can download from https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
